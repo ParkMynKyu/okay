@@ -21,7 +21,7 @@ struct Person
 };
 
 int main()
-{
+{ 
     Person personA;
     personA.init("송진욱", 27);
     personA.Showinfo(); 
